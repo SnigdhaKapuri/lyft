@@ -5,3 +5,4 @@ class TestMyClass(unittest.TestCase):
     def test_something(self):
         # Your test logic here
         self.assertTrue(True)
+        
